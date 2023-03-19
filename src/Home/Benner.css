@@ -1,0 +1,15 @@
+/* @media screen and (min-width: 850px) {
+    .img {
+      
+    }
+  }
+ */
+ body,img{
+    height: 30vh;
+}
+
+@media screen and (min-width:450px){
+  .hero-name{
+    font-size: 25px;
+  }
+}

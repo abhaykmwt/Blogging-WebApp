@@ -1,0 +1,11 @@
+.bold{
+    font-weight: bolder;
+    color: black;
+   font-size: 20px;
+}
+.container-fluid{
+    margin-top: 2%;
+padding-left: 8%;
+padding-right: 8%;
+
+}
